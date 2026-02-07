@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+        "convex-memory": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "tsx",
+                "c:/Users/jgarl/Coding/antigravity-memory/src/index.ts"
+            ],
+            "env": {
+                "CONVEX_URL": "https://moonlit-seahorse-541.convex.cloud"
+            }
+        }
+    }
+}
